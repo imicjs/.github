@@ -1,0 +1,11 @@
+github:
+  funding:
+    - type: "individual"
+      url: "https://example.com/donate"
+      description: "Support our research and development in intelligent medical image computing."
+    - type: "organization"
+      url: "https://example.com/sponsor"
+      description: "Become a sponsor and help us advance the field of medical imaging."
+    - type: "patreon"
+      url: "https://www.patreon.com/jiangsu_lab"
+      description: "Join our Patreon community for exclusive updates and insights."
