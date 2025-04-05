@@ -13,18 +13,18 @@ Established in 2021 and officially approved for construction in June 2024, IMIC 
 
 ## **Mission and Vision**
 
-Our mission is to leverage advanced artificial intelligence and information science to explore and solve cutting-edge scientific problems in medicine and health. We aim to:
+Our mission is to leverage advanced artificial intelligence and information science to explore and solve cutting-edge scientific problems in medicine and healthcare. We aim to:
 
-- Develop new concepts, technologies, and methodologies at the intersection of AI and medicine
+- Develop new concepts, technologies, and methodologies at the intersection of AI, information science and medicine
 - Establish a first-class and internationally recognized frontier research platform
 - Translate research findings into clinical applications that directly benefit patients
 - Adhere to our core philosophy: "Rooted in clinical practice, exceeding clinical expectations, empowering clinical applications, and returning to clinical benefit"
 
 ## **Research Areas**
 
-Our laboratory focuses on five main research fields:
+Our laboratory focuses on five main research areas:
 
-- **Medical Imaging and Analysis**: Developing innovative algorithms for enhancing and analyzing medical images
+- **Medical Imaging and Analysis**: Developing advanced imaging technologies, artificial intelligence (AI), and computational analysis to revolutionize clinicians' interpretation of radiological images for diagnosis, treatment planning, and disease monitoring. 
 - **Brain Science and Neuroimaging**: Exploring advanced imaging techniques and computational methods for brain science investigations
 - **Computational Pathology**: Creating computational pathology tools for disease diagnosis, prognosis, and treatment planning
 - **Multi-omics data analysis**: Combing analysis of medical electronic records and multiple "omics" datasets (genomics, transcriptomics, proteomics, metabolomics, epigenomics, etc.) to gain a comprehensive understanding of biological systems, disease mechanisms, and personalized medicine.
