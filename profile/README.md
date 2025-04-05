@@ -32,7 +32,7 @@ Our laboratory focuses on five main research fields:
 
 ## **Research Approach**
 
-We work with cross-scale and multimodal data, including:
+We are working with different scale and multimodal data, including:
 
 - Pathological Images: High-resolution digital pathology slides
 - Radiological Images: X-ray, CT, and multi-parameter MR images, PET scans
