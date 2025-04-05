@@ -27,7 +27,7 @@ Our laboratory focuses on five main research fields:
 - **Medical Imaging and Analysis**: Developing innovative algorithms for enhancing and analyzing medical images
 - **Brain Science and Neuroimaging**: Exploring advanced imaging techniques and computational methods for brain science investigations
 - **Computational Pathology for Diagnosis, Prognosis, and Treatment**: Creating computational pathology tools for disease diagnosis, prognosis, and treatment planning
-- **Medical Big Data**: Harnessing big data analytics and developing methods for quantitative analysis of medical data
+- **Multi-omics data analysis**: Combing analysis of medical electronic records and multiple "omics" datasets (genomics, transcriptomics, proteomics, metabolomics, epigenomics, etc.) to gain a comprehensive understanding of biological systems, disease mechanisms, and personalized medicine.
 - **Biosignal and Wearable Devices**: developing wearable sensors to capture electrical and mechanical physiological signals in real-time and perform multimodal signal analysis
 
 ## **Research Approach**
@@ -39,17 +39,17 @@ We work with cross-scale and multimodal data, including:
 - PET scans
 - Electronic medical records
 - Text data and multimodal physiological signals
-- 
+- "omics" datasets (genomics, transcriptomics, proteomics, metabolomics, epigenomics, etc.)
 
 Our research explores original methodologies in quantitative image analysis, natural language processing, signal processing, and machine learning applied to diseases of the breast, liver, pancreas, digestive system, gynecology, urology, brain, and ophthalmology.
 
 ## **Team and Expertise**
 
-IMIC brings together experts and students from diverse backgrounds including engineering, medicine, and basic sciences. Our high-caliber, internationally-minded research team features:
+IMIC brings experts and students from diverse backgrounds, including engineering, medicine, and basic sciences. Our high-caliber, internationally-minded research team features:
 
-- Distinguished medical experts including Academician Teng Gaojun serving as doctoral and master's supervisors
+- Distinguished medical experts, including Academician Teng Gaojun, serve as doctoral and master's supervisors
 - Interdisciplinary advisory teams combining medical and engineering expertise
-- Over 90% of team members graduated from world top 200 universities in China, USA, UK, Singapore, etc.
+- Over 90% of team members graduated from the top 200 world universities.
 - Core members publishing in prestigious journals including Nature subsidiaries, Science subsidiaries, PNAS, Radiology, IEEE Transactions on Medical Imaging, and Medical Image Analysis
 
 ## **Educational Role**
