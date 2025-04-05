@@ -26,7 +26,7 @@ Our laboratory focuses on five main research fields:
 
 - **Medical Imaging and Analysis**: Developing innovative algorithms for enhancing and analyzing medical images
 - **Brain Science and Neuroimaging**: Exploring advanced imaging techniques and computational methods for brain science investigations
-- **Computational Pathology for Diagnosis, Prognosis, and Treatment**: Creating computational pathology tools for disease diagnosis, prognosis, and treatment planning
+- **Computational Pathology**: Creating computational pathology tools for disease diagnosis, prognosis, and treatment planning
 - **Multi-omics data analysis**: Combing analysis of medical electronic records and multiple "omics" datasets (genomics, transcriptomics, proteomics, metabolomics, epigenomics, etc.) to gain a comprehensive understanding of biological systems, disease mechanisms, and personalized medicine.
 - **Biosignal and Wearable Devices**: Developing wearable sensors to capture electrical and mechanical physiological signals in real-time and perform multimodal signal analysis
 
