@@ -28,7 +28,7 @@ Our laboratory focuses on five main research fields:
 - **Brain Science and Neuroimaging**: Exploring advanced imaging techniques and computational methods for brain science investigations
 - **Computational Pathology for Diagnosis, Prognosis, and Treatment**: Creating computational pathology tools for disease diagnosis, prognosis, and treatment planning
 - **Medical Big Data**: Harnessing big data analytics and developing methods for quantitative analysis of medical data
-- **Biosignal and Wearable Devices**: develop wearable sensors to capture electrical and mechanical physiological signals in real-time and perform multimodal signal analysis
+- **Biosignal and Wearable Devices**: developing wearable sensors to capture electrical and mechanical physiological signals in real-time and perform multimodal signal analysis
 
 ## **Research Approach**
 
@@ -38,7 +38,8 @@ We work with cross-scale and multimodal data, including:
 - X-ray, CT, and multi-parameter MR images
 - PET scans
 - Electronic medical records
-- Text data and various biological signals
+- Text data and multimodal physiological signals
+- 
 
 Our research explores original methodologies in quantitative image analysis, natural language processing, signal processing, and machine learning applied to diseases of the breast, liver, pancreas, digestive system, gynecology, urology, brain, and ophthalmology.
 
