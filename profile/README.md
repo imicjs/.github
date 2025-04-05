@@ -26,8 +26,8 @@ Our laboratory focuses on four main research directions:
 
 - **Medical Imaging and Analysis**: Developing innovative algorithms for enhancing and analyzing medical images
 - **Brain Science and Neuroimaging**: Exploring advanced imaging techniques and computational methods for brain science investigations
-- **Intelligent Pathological Diagnosis and Treatment**: Creating AI-assisted systems for diagnosis and treatment planning
-- **Intelligent Sensing and Medical Big Data**: Harnessing big data analytics and developing methods for quantitative analysis of medical data
+- **Computational Pathology for Diagnosis, Prognosis, and Treatment**: Creating computational pathology tools for disease diagnosis, prognosis, and treatment planning
+- **Biosignal and Wearable Devices and Medical Big Data**: Harnessing big data analytics and developing methods for quantitative analysis of medical data
 
 ## **Research Approach**
 
