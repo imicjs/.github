@@ -8,8 +8,8 @@ Established in 2021 and officially approved for construction in June 2024, IMIC 
 
 - Nanjing University of Information Science and Technology (host institution)
 - Zhongda Hospital affiliated with Southeast University
-- Nanjing Drum Tower Hospital
-- Jiangsu Provincial People's Hospital
+- Nanjing Drum Tower Hospital affiliated with Nanjing University
+- Jiangsu Provincial People's Hospital affiliated with Nanjing Medical University
 
 ## **Mission and Vision**
 
