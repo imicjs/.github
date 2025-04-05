@@ -22,12 +22,13 @@ Our mission is to leverage advanced artificial intelligence and information scie
 
 ## **Research Areas**
 
-Our laboratory focuses on four main research directions:
+Our laboratory focuses on five main research fields:
 
 - **Medical Imaging and Analysis**: Developing innovative algorithms for enhancing and analyzing medical images
 - **Brain Science and Neuroimaging**: Exploring advanced imaging techniques and computational methods for brain science investigations
 - **Computational Pathology for Diagnosis, Prognosis, and Treatment**: Creating computational pathology tools for disease diagnosis, prognosis, and treatment planning
-- **Biosignal and Wearable Devices and Medical Big Data**: Harnessing big data analytics and developing methods for quantitative analysis of medical data
+- **Medical Big Data**: Harnessing big data analytics and developing methods for quantitative analysis of medical data
+- **Biosignal and Wearable Devices**: develop wearable sensors to capture electrical and mechanical physiological signals in real-time and perform multimodal signal analysis
 
 ## **Research Approach**
 
