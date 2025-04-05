@@ -35,7 +35,7 @@ Our laboratory focuses on five main research areas:
 We are working with different scales and multimodal data, including:
 
 - Pathological Images: High-resolution digital pathology slides
-- Radiological Images: X-ray, CT, and multi-parameter MR images, PET scans
+- Radiological Images: X-ray, Ultrasound, CT, and multi-parameter MR images, PET scans
 - Electronic Medical Records and Text Data 
 - Multimodal Physiological Signals
 - "Omics" Data: genomics, transcriptomics, proteomics, metabolomics, epigenomics, etc.
