@@ -34,14 +34,28 @@ Our laboratory focuses on five main research fields:
 
 We work with cross-scale and multimodal data, including:
 
-- High-resolution digital pathology slides
-- X-ray, CT, and multi-parameter MR images
-- PET scans
-- Electronic medical records
-- Text data and multimodal physiological signals
-- "omics" datasets (genomics, transcriptomics, proteomics, metabolomics, epigenomics, etc.)
+- Pathological Images: High-resolution digital pathology slides
+- Radiological Images: X-ray, CT, and multi-parameter MR images, PET scans
+- Electronic medical records and text data 
+- Multimodal physiological signals
+- "Omics" data: genomics, transcriptomics, proteomics, metabolomics, epigenomics, etc.
 
-Our research explores original methodologies in quantitative image analysis, natural language processing, signal processing, and machine learning applied to diseases of the breast, liver, pancreas, digestive system, gynecology, urology, brain, and ophthalmology.
+Our research explores original methodologies in
+
+- Quantitative image analysis
+- Natural language processing
+- Signal processing
+- Machine learning
+
+Applied these new cutting-edge technologies to diseases of 
+- Breast
+- Urology
+- Liver
+- Pancreas
+- Digestive systems
+- Gynecology
+- Brain
+- Ophthalmology.
 
 ## **Team and Expertise**
 
