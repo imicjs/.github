@@ -7,7 +7,7 @@ Welcome to the Jiangsu Key Laboratory of Intelligent Medical Image Computing (IM
 Established in 2021 and officially approved for construction in June 2024, IMIC is a provincial-level research platform at Nanjing University of Information Science and Technology (NUIST), led by Professor Xu Jun. The laboratory is jointly built by:
 
 - Nanjing University of Information Science and Technology (host institution)
-- Zhongda Hospital affiliated to Southeast University
+- Zhongda Hospital affiliated with Southeast University
 - Nanjing Drum Tower Hospital
 - Jiangsu Provincial People's Hospital
 
@@ -16,7 +16,7 @@ Established in 2021 and officially approved for construction in June 2024, IMIC 
 Our mission is to leverage advanced artificial intelligence and information science to explore and solve cutting-edge scientific problems in medicine and health. We aim to:
 
 - Develop new concepts, technologies, and methodologies at the intersection of AI and medicine
-- Establish a nationally first-class and internationally recognized frontier research platform
+- Establish a first-class and internationally recognized frontier research platform
 - Translate research findings into clinical applications that directly benefit patients
 - Adhere to our core philosophy: "Rooted in clinical practice, exceeding clinical expectations, empowering clinical applications, and returning to clinical benefit"
 
@@ -28,7 +28,7 @@ Our laboratory focuses on five main research fields:
 - **Brain Science and Neuroimaging**: Exploring advanced imaging techniques and computational methods for brain science investigations
 - **Computational Pathology for Diagnosis, Prognosis, and Treatment**: Creating computational pathology tools for disease diagnosis, prognosis, and treatment planning
 - **Multi-omics data analysis**: Combing analysis of medical electronic records and multiple "omics" datasets (genomics, transcriptomics, proteomics, metabolomics, epigenomics, etc.) to gain a comprehensive understanding of biological systems, disease mechanisms, and personalized medicine.
-- **Biosignal and Wearable Devices**: developing wearable sensors to capture electrical and mechanical physiological signals in real-time and perform multimodal signal analysis
+- **Biosignal and Wearable Devices**: Developing wearable sensors to capture electrical and mechanical physiological signals in real-time and perform multimodal signal analysis
 
 ## **Research Approach**
 
