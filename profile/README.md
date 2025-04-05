@@ -6,7 +6,7 @@ Welcome to the Jiangsu Key Laboratory of Intelligent Medical Image Computing (IM
 
 Established in 2021 and officially approved for construction in June 2024, IMIC is a provincial-level research platform at Nanjing University of Information Science and Technology (NUIST), led by Professor Jun Xu. The laboratory is jointly built by:
 
-- Nanjing University of Information Science and Technology (host institution)
+- Nanjing University of Information Science and Technology (Host Institution)
 - Zhongda Hospital affiliated with Southeast University  (Partners)
 - Nanjing Drum Tower Hospital affiliated with Nanjing University (Partners)
 - Jiangsu Provincial People's Hospital affiliated with Nanjing Medical University (Partners)
@@ -36,9 +36,9 @@ We are working with different scale and multimodal data, including:
 
 - Pathological Images: High-resolution digital pathology slides
 - Radiological Images: X-ray, CT, and multi-parameter MR images, PET scans
-- Electronic medical records and text data 
-- Multimodal physiological signals
-- "Omics" data: genomics, transcriptomics, proteomics, metabolomics, epigenomics, etc.
+- Electronic Medical Records and Text Data 
+- Multimodal Physiological Signals
+- "Omics" Data: genomics, transcriptomics, proteomics, metabolomics, epigenomics, etc.
 
 Our research explores original methodologies in
 
