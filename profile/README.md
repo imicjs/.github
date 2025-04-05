@@ -24,7 +24,7 @@ Our mission is to leverage advanced artificial intelligence and information scie
 
 Our laboratory focuses on five main research areas:
 
-- **Medical Imaging and Analysis**: Developing advanced imaging technologies, artificial intelligence (AI), and computational analysis to revolutionize clinicians' interpretation of radiological images for diagnosis, treatment planning, and disease monitoring. 
+- **Medical Imaging and Analysis**: Developing advanced imaging technologies, artificial intelligence (AI), and computational analysis to revolutionize clinicians' interpretation of radiological images for diagnosis, treatment planning, intervention, and disease monitoring. 
 - **Brain Science and Neuroimaging**: Exploring advanced imaging techniques and computational methods for brain science investigations
 - **Computational Pathology**: Creating computational pathology tools for disease diagnosis, prognosis, and treatment planning
 - **Multi-omics data analysis**: Combing analysis of medical electronic records and multiple "omics" datasets (genomics, transcriptomics, proteomics, metabolomics, epigenomics, etc.) to gain a comprehensive understanding of biological systems, disease mechanisms, and personalized medicine.
