@@ -32,7 +32,7 @@ Our laboratory focuses on five main research areas:
 
 ## **Research Approach**
 
-We are working with different scale and multimodal data, including:
+We are working with different scales and multimodal data, including:
 
 - Pathological Images: High-resolution digital pathology slides
 - Radiological Images: X-ray, CT, and multi-parameter MR images, PET scans
@@ -47,7 +47,7 @@ Our research explores original methodologies in
 - Signal processing
 - Machine learning
 
-Applied these new cutting-edge technologies to diseases of 
+Applying these new cutting-edge technologies to diseases of 
 - Breast
 - Urology
 - Liver
