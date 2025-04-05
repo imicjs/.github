@@ -1,10 +1,10 @@
 # Jiangsu Key Laboratory of Intelligent Medical Image Computing (IMIC)
 
-Welcome to the Jiangsu Key Laboratory of Intelligent Medical Image Computing (IMIC) at Nanjing University of Information Science and Technology, China- 智能医学图像计算江苏高校重点实验室 (Zhìnéng yīxué túxiàng jìsuàn jiāngsū gāoxiào zhòngdiǎn shíyànshì). Our laboratory is dedicated to advancing the intersection of artificial intelligence, information science, and medicine through innovative research and development.
+Welcome to the Jiangsu Key Laboratory of Intelligent Medical Image Computing (IMIC) at Nanjing University of Information Science and Technology, China. Our laboratory is dedicated to advancing the intersection of artificial intelligence, information science, and medicine through innovative research and development.
 
 ## **About Us**
 
-Established in 2021 and officially approved for construction in June 2024, IMIC is a provincial-level research platform at Nanjing University of Information Science and Technology (NUIST), led by Professor Xu Jun. The laboratory is jointly built by:
+Established in 2021 and officially approved for construction in June 2024, IMIC is a provincial-level research platform at Nanjing University of Information Science and Technology (NUIST), led by Professor Jun Xu. The laboratory is jointly built by:
 
 - Nanjing University of Information Science and Technology (host institution)
 - Zhongda Hospital affiliated with Southeast University  (Partners)
