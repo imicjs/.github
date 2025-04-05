@@ -1,6 +1,6 @@
 # Jiangsu Key Laboratory of Intelligent Medical Image Computing (IMIC)
 
-Welcome to the Jiangsu Key Laboratory of Intelligent Medical Image Computing (IMIC) - 智能医学图像计算江苏高校重点实验室 (Zhìnéng yīxué túxiàng jìsuàn jiāngsū gāoxiào zhòngdiǎn shíyànshì). Our laboratory is dedicated to advancing the intersection of artificial intelligence, information science, and medicine through innovative research and development.
+Welcome to the Jiangsu Key Laboratory of Intelligent Medical Image Computing (IMIC) at Nanjing University of Information Science and Technology, China- 智能医学图像计算江苏高校重点实验室 (Zhìnéng yīxué túxiàng jìsuàn jiāngsū gāoxiào zhòngdiǎn shíyànshì). Our laboratory is dedicated to advancing the intersection of artificial intelligence, information science, and medicine through innovative research and development.
 
 ## **About Us**
 
